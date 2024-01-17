@@ -1,6 +1,6 @@
 This is my personal notes written in latex (not finished yet) for maths finance that I have started at the end of 2022. For organization :
 
-&ensp The first chapter represents basic concepts and knowledges in finance.
+&ensp; The first chapter represents basic concepts and knowledges in finance.
 
 \tThe second chapter represents fondamentally what is probability and its related concepts, tools ... We find here also the convergence of random variables, uniform integrability, which are necessary in chapter stochastic process.
 
